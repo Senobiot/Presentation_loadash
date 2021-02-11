@@ -1,5 +1,5 @@
 ## RSSchool Presentation Loadash JS Library
 
-[Deploy LINK](https://presentation-loadash.netlify.app/)
+[Deploy LINK](https://senobiot.github.io/RSSchool-Presentation-loadash/)
 
 ![](https://i.imgur.com/Y65KmgT.jpg)
